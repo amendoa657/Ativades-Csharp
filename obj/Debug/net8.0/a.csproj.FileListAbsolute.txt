@@ -1,0 +1,14 @@
+/home/amendoa/Documentos/C#/a/bin/Debug/net8.0/a
+/home/amendoa/Documentos/C#/a/bin/Debug/net8.0/a.deps.json
+/home/amendoa/Documentos/C#/a/bin/Debug/net8.0/a.runtimeconfig.json
+/home/amendoa/Documentos/C#/a/bin/Debug/net8.0/a.dll
+/home/amendoa/Documentos/C#/a/bin/Debug/net8.0/a.pdb
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.GeneratedMSBuildEditorConfig.editorconfig
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.AssemblyInfoInputs.cache
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.AssemblyInfo.cs
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.csproj.CoreCompileInputs.cache
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.dll
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/refint/a.dll
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.pdb
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/a.genruntimeconfig.cache
+/home/amendoa/Documentos/C#/a/obj/Debug/net8.0/ref/a.dll

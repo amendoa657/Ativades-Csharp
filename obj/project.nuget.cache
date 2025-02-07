@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vk3QiWhoNe65VEAR6PS36DHEMDMy6WA2gv7iQxfkzqKu6Zk/uR9Fl9IRexeOMKcOWWq0qJBS0BOqwWx6itUluQ==",
+  "success": true,
+  "projectFilePath": "/home/amendoa/Documentos/C#/a/a.csproj",
+  "expectedPackageFiles": [
+    "/home/amendoa/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
